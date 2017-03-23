@@ -27,7 +27,6 @@ public class HelloWorldService {
 		}else{
 			return "Hello " + name;
 		}
-		
 	}
 
 }
