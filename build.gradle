@@ -11,6 +11,7 @@ buildscript {
   }
 
   dependencies {
+    //插件1.4.2是有问题。
     classpath 'org.akhikhl.gretty:gretty:1.4.0'
   }
 }
