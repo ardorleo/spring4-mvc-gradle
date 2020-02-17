@@ -10,8 +10,8 @@
 <link href="${bootstrapCss}" rel="stylesheet" />
 <link href="${coreCss}" rel="stylesheet" />
 </head>
-
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<body>
+<nav class="navbar navbar-dark bg-dark navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
 			<a class="navbar-brand" href="#">Project Name</a>
